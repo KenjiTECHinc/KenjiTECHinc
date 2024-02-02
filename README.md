@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently working on a degree in Electrical Engineering and Computer Science.<br>📖Actively learning, but specially interested in learning JavaScript and React at the moment.<br>👯Always up for new projects, let me know about any collaborations. Some current interests are:<br>    - Application<br>    - Web Programming<br>    - Exploring new Data Structures and Algorithms<br>    - Engineering Designs / Robotics<br>🗨️Talk to me about anything! I'm a good listener 😁.
+🔭Currently working on a degree in Electrical Engineering and Computer Science.<br>📖Actively learning, but specially interested in learning JavaScript and React at the moment.<br>👯Always up for new projects, let me know about any collaborations. Some current interests are:<br> - Application<br> - Web Programming<br> - Exploring new Data Structures and Algorithms<br> - Engineering Designs / Robotics<br>🗨️Talk to me about anything! I'm a good listener 😁.<br>🎮My relax time activities may include, gaming & scale models.
 
 
 ## 🌐 Socials:

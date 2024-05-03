@@ -7,15 +7,15 @@
 
 # 💻 Tech Stack:
 ### Languages:
-[![C](https://skillicons.dev/icons?i=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)   [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/doc/tutorial/)   [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)   [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/doc/tutorial/) [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 ### Framework, Platform & Libraries:
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 ### Database:
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 ### Design:
-[![Adobe](https://skillicons.dev/icons?i=ai,ps,pr,xd)](https://www.adobe.com/)   [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Adobe](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 ### Tools & Others:
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)   [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/) [![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KenjiTECHinc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KenjiTECHinc&theme=dark&hide_border=false)<br/>

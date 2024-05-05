@@ -1,8 +1,8 @@
 # 👋 Hi, it's Me:
-🔭Currently working on a degree in Electrical Engineering and Computer Science.<br>📖Actively learning, but specially interested in learning JavaScript and React at the moment.<br>👯Always up for new projects, let me know about any collaborations. Some current interests are:<br> - Application/Web Development<br> - Exploring new Data Structures and Algorithms<br> - Engineering Designs / Robotics<br>🗨️Talk to me about anything! I'm a good listener 😁.<br>🎮My relax time activities may include, gaming & scale models.
+🔭Currently working on a degree in Electrical Engineering and Computer Science.<br>📖Actively learning, but specially interested in learning JavaScript and React at the moment.<br>👯Always up for new projects, let me know about any collaborations. Some current interests are:<br> - Application/Web Development<br> - Exploring new Data Structures and Algorithms<br> - Engineering Designs / Robotics<br>🎮My relax time activities may include, gaming & scale models.
 
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achita-chitraphan)
 
 # 💻 Tech Stack:

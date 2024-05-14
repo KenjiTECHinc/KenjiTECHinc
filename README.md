@@ -10,8 +10,8 @@
 [![C](https://skillicons.dev/icons?i=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/doc/tutorial/) [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 ### Framework, Platform & Libraries:
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
-### Database:
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+### Hosting, SaaS & Database:
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 ### Design:
 [![Adobe](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 ### Tools & Others:

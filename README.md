@@ -11,7 +11,7 @@
 ### Framework, Platform & Libraries:
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 ### Hosting, SaaS & Database:
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 ### Design:
 [![Adobe](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 ### Tools & Others:

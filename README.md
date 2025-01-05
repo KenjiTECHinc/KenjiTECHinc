@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 ### Languages:
-[![C](https://skillicons.dev/icons?i=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/doc/tutorial/) [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) [![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/doc/tutorial/) [![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/) [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3.org/) [![JS](https://skillicons.dev/icons?i=js)]() [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 ### Framework, Platform & Libraries:
 [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/) [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
 ### Hosting, SaaS & Database:

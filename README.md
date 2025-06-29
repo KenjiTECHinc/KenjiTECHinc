@@ -16,7 +16,7 @@
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/) [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
 ### Database Management
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/) [![Mongo](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) [![Node](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en) [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) [![mySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-### Other Tools & Software:
+### Other Tools & Services:
 [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/) [![cypress](https://skillicons.dev/icons?i=cypress&theme=light)](https://www.cypress.io/) [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/) [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 ### Design:
 [![Adobe](https://skillicons.dev/icons?i=ai)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/) [![Adobe](https://skillicons.dev/icons?i=xd)](https://www.adobe.com/) [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
